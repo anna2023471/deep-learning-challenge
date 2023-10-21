@@ -1,12 +1,12 @@
 # deep-learning-challenge
 
-## Overview
+# Overview
 
 The purpose of this analysis was to create a neural network model that could predict the success of applicants funded by Alphabet Soup. The analysis was performed using a datastet of over 34,000 records. Tensorflow Keras was used to create a sequential model. The target prediction accuracy of the model was 75% and above.
 
-## Results
+# Results
 
-# Data Preprocessing
+## Data Preprocessing
 
 * The target for the model was the success or failure of each applicant (represented as the binary column "IS_SUCCESSFUL" with 0=No and 1=Yes).
   
@@ -36,7 +36,7 @@ The purpose of this analysis was to create a neural network model that could pre
    
   * NAME - Identificayion column
    
-  # Compiling, Training, and Evaluating the Model
+  ## Compiling, Training, and Evaluating the Model
 
 * The final model consisted of 50 input dimensions, three hidden layers, and one output layer. The hidden layers had 200, 100, and 50 neurons respectively; the output layer had one neuron. The following activation functions were used:
     
