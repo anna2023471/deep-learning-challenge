@@ -47,6 +47,9 @@ The purpose of this analysis was to create a neural network model that could pre
   * Third hidden layer - relu
         
   * Output layer - sigmoid
+ 
+![model](https://github.com/anna2023471/deep-learning-challenge/assets/132623167/562bb898-fd6e-4e22-8667-5df368fd334f)
+
    
 * The model was not able to achieve target performance of over 75% accuracy, with the best performing model achieving only 73.2%.
     
