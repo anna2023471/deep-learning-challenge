@@ -61,6 +61,8 @@ The purpose of this analysis was to create a neural network model that could pre
   * Increasing the number of epochs
    
   * Using a different activation function in one of the hidden layers
+ 
+* The final model differed from the original in that it employed a greater number of rare variable bins, more hidden layers, more neurons per layer, more epochs, and two different activation functions.
    
 # Summary
 
