@@ -50,6 +50,10 @@ The purpose of this analysis was to create a neural network model that could pre
  
 ![model](https://github.com/anna2023471/deep-learning-challenge/assets/132623167/562bb898-fd6e-4e22-8667-5df368fd334f)
 
+
+![Publication1](https://github.com/anna2023471/deep-learning-challenge/assets/132623167/f8dc8122-2531-4da8-bef3-88b0f4e7468d)
+
+
    
 * The model was not able to achieve target performance of over 75% accuracy, with the best performing model achieving only 73.2%.
     
