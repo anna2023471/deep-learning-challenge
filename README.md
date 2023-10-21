@@ -64,4 +64,4 @@ The purpose of this analysis was to create a neural network model that could pre
    
 # Summary
 
-Despite multiple attempts at optimising the model, performance could not be increased above 73%. Regardless of the steps taken to optimise the model, no significant improvement in performance was observed in any of the steps. A Support Vector Model (SVM) may be better suited to this task. Unlike a neural network, SVMs are not limited to the input feature dimensions and can use an ulimited number of dimensions to find a solution.
+Despite multiple attempts at optimising the model, performance could not be increased above 73%. Regardless of the steps taken to optimise the model, no significant improvement in performance was observed in any of the steps. A Support Vector Model (SVM) may be better suited to this task. Unlike a neural network, SVMs are not limited to the input dimensions and can increase dimensionality until a solution is found.
