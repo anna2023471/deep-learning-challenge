@@ -12,23 +12,23 @@ The purpose of this analysis was to create a neural network model that could pre
   
 * The features for the model were:
   
-      * APPLICATION_TYPE — Alphabet Soup application type
+       * APPLICATION_TYPE — Alphabet Soup application type
   
-      * AFFILIATION — Affiliated sector of industry
+       * AFFILIATION — Affiliated sector of industry
   
-      * CLASSIFICATION — Government organisation classification
+       * CLASSIFICATION — Government organisation classification
 
-      * USE_CASE — Use case for funding
+       * USE_CASE — Use case for funding
   
-      * ORGANIZATION — Organisation type
+       * ORGANIZATION — Organisation type
   
-      * STATUS — Active status
+       * STATUS — Active status
   
-      * INCOME_AMT — Income classification
+       * INCOME_AMT — Income classification
   
-      * SPECIAL_CONSIDERATIONS — Special considerations for application
+       * SPECIAL_CONSIDERATIONS — Special considerations for application
   
-      * ASK_AMT — Funding amount requested
+       * ASK_AMT — Funding amount requested
 
   * The following variables were removed as they were neither features nor targets:
  
